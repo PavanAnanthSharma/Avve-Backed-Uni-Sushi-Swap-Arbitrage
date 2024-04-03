@@ -38,7 +38,7 @@ The FlashLoanArbitrage smart contract harnesses the power of Aave's flashloan ca
 3. **Clone the repository**: Clone the Aave Flashloan Arbitrage repository to your local machine:
    ```sh
    git clone https://github.com/PavanAnanthSharma/Avve-Backed-Uni-Sushi-Swap-Arbitrage/tree/main
-   cd aave-flashloan-arbitrage
+   cd Avve-Backed-Uni-Sushi-Swap-Arbitrage
    ```
 
 4. **Set environment variables**: Configure your environment variables by adding your PRIVATE_KEY (obtained from your Ethereum wallet like Metamask) and the Infura project ID (sign up for an Infura account) to the .env file:
