@@ -37,7 +37,7 @@ The FlashLoanArbitrage smart contract harnesses the power of Aave's flashloan ca
 
 3. **Clone the repository**: Clone the Aave Flashloan Arbitrage repository to your local machine:
    ```sh
-   git clone https://github.com/kaymen99/aave-flashloan-arbitrage.git
+   git clone https://github.com/PavanAnanthSharma/Avve-Backed-Uni-Sushi-Swap-Arbitrage/tree/main
    cd aave-flashloan-arbitrage
    ```
 
